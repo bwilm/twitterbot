@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bwilm/twitterbot/issues"
   },
-  "homepage": "https://github.com/bwilm/twitterbot#readme"
+  "homepage": "https://github.com/bwilm/twitterbot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
 }
